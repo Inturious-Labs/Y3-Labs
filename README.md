@@ -55,6 +55,7 @@ A collection of browser-based games built by a father-and-son team, deployed on 
 ```
 
 **The Flow:**
+
 1. You write code in your **Working Files**
 2. `git add` + `git commit` saves changes to your **Local Repository**
 3. `git push` uploads your commits to **GitHub**
