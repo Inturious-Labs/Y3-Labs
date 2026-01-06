@@ -100,7 +100,7 @@ This guide will help you set up automatic deployment of your Pacboy 2025 game to
    ```
 3. **Verify canister exists**:
    ```bash
-   dfx canister --network ic info game-studio
+   dfx canister --network ic info y3-labs
    ```
 
 ## 🔒 Security Considerations
