@@ -1,5 +1,9 @@
 # Y3 Labs
 
+[![Deployed on ICP](https://img.shields.io/badge/ICP-Deployed-brightgreen)](https://viiha-gqaaa-aaaae-qfe4q-cai.icp0.io/)
+
+**Live at:** https://viiha-gqaaa-aaaae-qfe4q-cai.icp0.io/
+
 A collection of browser-based games built by a father-and-son team, deployed on the Internet Computer (ICP).
 
 ## Team
